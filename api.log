@@ -1,0 +1,155 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.15:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-765-948
+INFO:root:Создан документ 0d693b60-0b1f-4d42-a690-7868da6d2933
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2023 18:00:22] "POST /doc_manage HTTP/1.1" 200 -
+INFO:root:Создан документ 8eae374a-aa24-4b8d-bf7f-d01b52db4bd0
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2023 18:00:22] "POST /doc_manage HTTP/1.1" 200 -
+INFO:root:Создан документ 30503856-6806-4ec9-b4a2-31325691df9d
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2023 18:00:22] "POST /doc_manage HTTP/1.1" 200 -
+INFO:root:Создан документ c0a79040-b201-4ef0-9a9d-a72e087b808e
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2023 18:00:22] "POST /doc_manage HTTP/1.1" 200 -
+INFO:root:Создан документ 859437a3-c5b4-48ee-8ef7-6e5a7291b10b
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2023 18:00:22] "POST /doc_manage HTTP/1.1" 200 -
+INFO:root:Создан документ 4aadb572-d176-430c-9305-1f133358aa4e
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2023 18:00:22] "POST /doc_manage HTTP/1.1" 200 -
+INFO:root:Создан документ 3a6e3db4-c99c-4ed1-b4b7-c6f983283268
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2023 18:00:22] "POST /doc_manage HTTP/1.1" 200 -
+INFO:root:Создан документ 76f1fe79-c179-4ad1-ba48-fc8c71299382
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2023 18:00:22] "POST /doc_manage HTTP/1.1" 200 -
+INFO:root:Создан документ 9810a3af-98d4-4ed7-89e8-b382d3d5442c
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2023 18:00:22] "POST /doc_manage HTTP/1.1" 200 -
+INFO:root:Создан документ d1552f53-44a9-48ce-816d-17518abda052
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2023 18:00:22] "POST /doc_manage HTTP/1.1" 200 -
+INFO:root:Создан документ d799cb34-7c08-4862-919c-baad3f134d16
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2023 18:00:22] "POST /doc_manage HTTP/1.1" 200 -
+INFO:root:Создан документ b80d34b1-dd6b-45b8-ba53-bc242aec4d48
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2023 18:00:22] "POST /doc_manage HTTP/1.1" 200 -
+INFO:root:Создан документ be932d88-a9a6-4b7c-a767-087a6c7dd5ff
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2023 18:00:23] "POST /doc_manage HTTP/1.1" 200 -
+INFO:root:Создан документ 2bee5ecb-6c3f-42a2-8e97-d1ffd1a76151
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2023 18:00:23] "POST /doc_manage HTTP/1.1" 200 -
+INFO:root:Создан документ 38288f83-d6b9-41f7-861b-70e78b36b15f
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2023 18:00:23] "POST /doc_manage HTTP/1.1" 200 -
+INFO:root:Создан документ e8d1f842-53a4-47cd-acec-e44885911ad3
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2023 18:00:23] "POST /doc_manage HTTP/1.1" 200 -
+INFO:root:Создан документ fef4823a-52fa-4810-90ce-c9148772e74c
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2023 18:00:23] "POST /doc_manage HTTP/1.1" 200 -
+INFO:root:Создан документ c3ad7b76-1e81-4343-aa78-895d98a83834
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2023 18:00:23] "POST /doc_manage HTTP/1.1" 200 -
+INFO:root:Создан документ 1639d3bb-2eb9-45e4-9da2-53df5b12efc1
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2023 18:00:23] "POST /doc_manage HTTP/1.1" 200 -
+INFO:root:Создан документ 6223157d-d4e3-484d-9974-120a1e227b68
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2023 18:00:23] "POST /doc_manage HTTP/1.1" 200 -
+ERROR:root:Ошибка при создании связи между документами: 'NoneType' object has no attribute 'relationship'
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2023 18:02:01] "POST /doc_manage/relationship HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\79205\\PycharmProjects\\DocManageAPI\\test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-765-948
+INFO:werkzeug: * Detected change in 'C:\\Users\\79205\\PycharmProjects\\DocManageAPI\\test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-765-948
+INFO:root:Создана связь между документами b80d34b1-dd6b-45b8-ba53-bc242aec4d48 и c0a79040-b201-4ef0-9a9d-a72e087b808e
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2023 18:03:38] "POST /doc_manage/relationship HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\79205\\PycharmProjects\\DocManageAPI\\test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-765-948
+INFO:werkzeug: * Detected change in 'C:\\Users\\79205\\PycharmProjects\\DocManageAPI\\test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-765-948
+INFO:werkzeug: * Detected change in 'C:\\Users\\79205\\PycharmProjects\\DocManageAPI\\test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-765-948
+INFO:werkzeug: * Detected change in 'C:\\Users\\79205\\PycharmProjects\\DocManageAPI\\test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-765-948
+INFO:werkzeug: * Detected change in 'C:\\Users\\79205\\PycharmProjects\\DocManageAPI\\test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-765-948
+INFO:werkzeug: * Detected change in 'C:\\Users\\79205\\PycharmProjects\\DocManageAPI\\test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-765-948
+INFO:werkzeug: * Detected change in 'C:\\Users\\79205\\PycharmProjects\\DocManageAPI\\test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-765-948
+INFO:werkzeug: * Detected change in 'C:\\Users\\79205\\PycharmProjects\\DocManageAPI\\test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-765-948
+INFO:werkzeug: * Detected change in 'C:\\Users\\79205\\PycharmProjects\\DocManageAPI\\test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-765-948
+INFO:werkzeug: * Detected change in 'C:\\Users\\79205\\PycharmProjects\\DocManageAPI\\test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-765-948
+INFO:werkzeug: * Detected change in 'C:\\Users\\79205\\PycharmProjects\\DocManageAPI\\test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-765-948
+INFO:werkzeug: * Detected change in 'C:\\Users\\79205\\PycharmProjects\\DocManageAPI\\test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-765-948
+INFO:werkzeug: * Detected change in 'C:\\Users\\79205\\PycharmProjects\\DocManageAPI\\test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-765-948
+INFO:werkzeug: * Detected change in 'C:\\Users\\79205\\PycharmProjects\\DocManageAPI\\test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-765-948
+INFO:werkzeug: * Detected change in 'C:\\Users\\79205\\PycharmProjects\\DocManageAPI\\test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-765-948
+INFO:werkzeug: * Detected change in 'C:\\Users\\79205\\PycharmProjects\\DocManageAPI\\test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-765-948
+INFO:werkzeug: * Detected change in 'C:\\Users\\79205\\PycharmProjects\\DocManageAPI\\test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-765-948
+INFO:werkzeug: * Detected change in 'C:\\Users\\79205\\PycharmProjects\\DocManageAPI\\test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-765-948
+INFO:root:Создана связь между документами 8eae374a-aa24-4b8d-bf7f-d01b52db4bd0 и 4aadb572-d176-430c-9305-1f133358aa4e
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2023 18:09:48] "POST /doc_manage/relationship HTTP/1.1" 200 -
+INFO:root:Создана связь между документами d1552f53-44a9-48ce-816d-17518abda052 и 38288f83-d6b9-41f7-861b-70e78b36b15f
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2023 18:09:48] "POST /doc_manage/relationship HTTP/1.1" 200 -
+INFO:root:Создана связь между документами c0a79040-b201-4ef0-9a9d-a72e087b808e и 2bee5ecb-6c3f-42a2-8e97-d1ffd1a76151
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2023 18:09:48] "POST /doc_manage/relationship HTTP/1.1" 200 -
+INFO:root:Создана связь между документами 76f1fe79-c179-4ad1-ba48-fc8c71299382 и 1639d3bb-2eb9-45e4-9da2-53df5b12efc1
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2023 18:09:49] "POST /doc_manage/relationship HTTP/1.1" 200 -
+INFO:root:Создана связь между документами 76f1fe79-c179-4ad1-ba48-fc8c71299382 и fef4823a-52fa-4810-90ce-c9148772e74c
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2023 18:09:49] "POST /doc_manage/relationship HTTP/1.1" 200 -
+INFO:root:Создана связь между документами 38288f83-d6b9-41f7-861b-70e78b36b15f и 0d693b60-0b1f-4d42-a690-7868da6d2933
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2023 18:09:49] "POST /doc_manage/relationship HTTP/1.1" 200 -
+INFO:root:Создана связь между документами d799cb34-7c08-4862-919c-baad3f134d16 и c3ad7b76-1e81-4343-aa78-895d98a83834
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2023 18:09:49] "POST /doc_manage/relationship HTTP/1.1" 200 -
+INFO:root:Создана связь между документами 76f1fe79-c179-4ad1-ba48-fc8c71299382 и 1639d3bb-2eb9-45e4-9da2-53df5b12efc1
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2023 18:09:49] "POST /doc_manage/relationship HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\79205\\PycharmProjects\\DocManageAPI\\test.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-765-948
+INFO:root:Документ с регистрационным номером d1552f53-44a9-48ce-816d-17518abda052 был удален
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2023 18:12:52] "DELETE /doc_manage/d1552f53-44a9-48ce-816d-17518abda052 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\79205\\PycharmProjects\\DocManageAPI\\test.py', reloading
